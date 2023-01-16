@@ -45,3 +45,4 @@ Dando como respuesta lo siguiente
 
 O modificando el codigo:
 
+<img src="/img/7ºimagenn.png" alt="7ºimagenn" style="zoom:80%;" />
