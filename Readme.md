@@ -1,5 +1,5 @@
 # Implementacion de Azure Functions
-*Noviembre 25 de 2022*, Ramón Peinado Ruiz
+Enero 16 de 2023*, Ramón Peinado Ruiz
 
 
 
@@ -26,3 +26,20 @@ Comprobamos que se haya desplegado bien volviendo a **Home > Function App**
 <img src="/img/3ºimagenn.png" alt="3ºimagenn" style="zoom:80%;" />
 
 Una vez dentro de nuestra Function App seleccionamos Functions y añadimos una nueva
+
+<img src="/img/4ºimagenn.png" alt="3ºimagenn" style="zoom:80%;" />
+
+Dentro de las opciones de desarrollador vamos a **CODE+TEST** obtenemos el link para la funcion con la **KEY DEFAULT**
+
+<img src="/img/5ºimagenn.png" alt="3ºimagenn" style="zoom:80%;" />
+
+ https://function-rpr.azurewebsites.net/api/HttpTrigger1?code=qhlSfJ3M-lElV2eyQiQt0Q10y54VHz8bd71QKdsmZO1bAzFuElAoIg== 
+
+Hay varias maneras de modificar esta solicitud, una de ellas es añadir al final del link &name="nombre"
+
+Dando como respuesta lo siguiente
+
+<img src="/img/6ºimagenn.png" alt="6ºimagenn" style="zoom:80%;" />
+
+O modificando el codigo:
+
