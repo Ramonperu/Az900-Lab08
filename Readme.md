@@ -1,9 +1,11 @@
-# Implementacion de Azure Functions
+# Implementación de Azure Functions
 Enero 16 de 2023*, Ramón Peinado Ruiz
 
+Vamos a crear una Función que nos devuelva un mensaje tras una solicitud HTTPS
 
+------
 
-Seleccionamos Funcion App, tras buscarlo en Home dentro del portal,
+Seleccionamos Function App, tras buscarlo en Home dentro del portal,
 
 ​	<img src="/img/1ºimagenn.png" alt="2ºimagenn" style="zoom:80%;" />
 
